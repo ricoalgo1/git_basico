@@ -6,4 +6,13 @@ body{
         color: white;
         text-transform: uppercase;}
     
-     \
+        center h3{
+            background-color:black;
+            color: white;
+            text-transform: uppercase;
+        }
+
+       h3{ background-color:black;
+        color: white;
+        text-transform: uppercase;
+        }
