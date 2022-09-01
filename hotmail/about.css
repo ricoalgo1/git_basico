@@ -18,5 +18,35 @@ blockquote{
         text-transform: uppercase;
     
   
-    }
-   
+    } 
+    h2{
+       
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: crimson;
+        } 
+    
+
+   p{
+       
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(30, 114, 210);
+    } 
+
+    h5{
+       
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: rgb(8, 8, 8);
+        } 
+    
+
+
+    h4{
+       
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: crimson;
+        } 
+    
+        label{
+        color: rgb(220, 20, 160);
+            } 
+        
